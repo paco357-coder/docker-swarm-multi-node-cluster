@@ -40,3 +40,6 @@ Simulated node failure:
 ```bash
 sudo systemctl stop docker
 Observed Behavior:
+Swarm detected node failure
+One replica remained active
+Second replica entered pending state
